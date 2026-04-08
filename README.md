@@ -1,16 +1,31 @@
-## Hi there 👋
+🚀 Hi, I'm Kazi Jamshed Alam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kazi%20Jamshed%20Alam&fontSize=40&fontColor=ffffff" />
+💻 Frontend Developer
 
-<!--
-**kazij317-code/kazij317-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me:
 
-Here are some ideas to get you started:
+I am a passionate frontend developer who loves building modern, responsive, and user-friendly web applications. I enjoy learning new technologies and improving my development skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Activities:
+
+•	🌱 I’m exploring Next.js  
+•	💻 I’m working on modern React projects  
+•	🚀 Building real-world web applications  
+•	📚 Learning advanced JavaScript concepts  
+
+
+🛠️ Skills:
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode" /> </p>
+
+🌐 Connect with Me
+
+<p align="center"> <a href="https://www.linkedin.com/in/kazi-jamshed-alam/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> </p>
+
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazij317-code&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight" /> </p>
+
+⚡ Fun Fact
+
+I love building clean UI and turning ideas into real-world projects 🚀
