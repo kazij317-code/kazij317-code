@@ -22,9 +22,19 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 
 <p align="center"> <a href="https://www.linkedin.com/in/kazi-jamshed-alam/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazij317-code&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kazij317-code&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ⚡ Fun Fact
 
