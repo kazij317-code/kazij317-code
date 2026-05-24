@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Learning+Next.js;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+(MERN Stack);Building+Modern+Web+Apps" />
 </p>
 
 ---
