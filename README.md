@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kazi+Jamshed+Alam;Frontend+Developer;Backend+Developer;FullStack+Developer(MERN Stack);React.js+%7C+Next.js+Developer;Building+Modern+Web+Applications;Open+to+Remote+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kazi+Jamshed+Alam;Frontend+Developer;Backend+Developer;Full+Stack+Developer(MERN Stack);React.js+%7C+Next.js+Developer;Building+Modern+Web+Applications;Open+to+Remote+Opportunities" />
 
 ### Frontend Developer | MERN Stack Developer
 
