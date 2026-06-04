@@ -4,10 +4,7 @@
 
 ### Frontend Developer | MERN Stack Developer
 
-Building responsive, modern, and user-focused web applications using **React.js, Next.js, and the MERN Stack**.
-
-
-<br/><br/>
+Building responsive, modern, and user-focused web applications using React.js, Next.js, and the MERN Stack.
 
 <img src="https://komarev.com/ghpvc/?username=kazij317-code&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
@@ -15,17 +12,27 @@ Building responsive, modern, and user-focused web applications using **React.js,
 
 ---
 
-## 🚀 Current Focus
+# 👨‍💻 Short Intro
 
-* Building scalable web applications with React.js and Next.js
-* Developing secure authentication and authorization systems
-* Creating reusable UI components and modern dashboards
-* Improving application performance and user experience
-* Exploring AI-assisted software development workflows
+Frontend Developer with hands-on experience building responsive web applications using React.js, Next.js, and the MERN stack.
+
+I specialize in developing modern user interfaces, integrating REST APIs, implementing authentication systems, and creating scalable web applications that deliver great user experiences.
+
+My background in IT operations and technical support has strengthened my problem-solving, troubleshooting, and analytical skills.
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Current Focus
+
+* Building scalable web applications with React.js and Next.js
+* Creating secure authentication and authorization systems
+* Developing reusable UI components and dashboards
+* Improving web performance and accessibility
+* Leveraging AI-assisted development workflows
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
@@ -49,64 +56,88 @@ Building responsive, modern, and user-focused web applications using **React.js,
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
 
-### Tools
+### Tools & AI
 
-Git • GitHub • VS Code • Vercel • Netlify • Figma • Chrome DevTools
-
-### AI-Assisted Development
+Git • GitHub • VS Code • Vercel • Netlify • Figma
 
 ChatGPT • Gemini • GitHub Copilot • Cursor
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Best Projects
 
-### 💡 Idea Vault
+## 💡 Idea Vault
 
-A full-stack idea management platform that enables users to create, organize, and manage ideas securely.
+**Full Stack Idea Management Platform**
 
 **Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Better Auth, JWT, Node.js, Express.js, MongoDB
 
-**Highlights**
+### Key Features
 
 * Secure authentication and authorization
 * CRUD operations with category filtering
 * Protected routes and user-specific data access
-* Responsive UI and modern user experience
+* Responsive and modern UI
 
-🔗 **Live Demo**
-https://idea-vault-client-pi.vercel.app
+🔗 Live Demo: https://idea-vault-client-pi.vercel.app
 
-🔗 **Client Repository**
-https://github.com/kazij317-code/IdeaVault-client
+🔗 Client Repository: https://github.com/kazij317-code/IdeaVault-client
 
-🔗 **Server Repository**
-https://github.com/kazij317-code/IdeaVault-server
+🔗 Server Repository: https://github.com/kazij317-code/IdeaVault-server
 
 ---
 
-### 🐄 Qurbani Hat
+## 🐄 Qurbani Hat
 
-A livestock marketplace platform for browsing, listing, and managing sacrificial animals.
+**Online Livestock Marketplace**
 
 **Tech Stack:** Next.js, React.js, Tailwind CSS, DaisyUI, Better Auth
 
-**Highlights**
+### Key Features
 
 * Authentication and protected routes
 * Role-based access control
 * Search and filtering functionality
-* Responsive design across devices
+* Mobile responsive design
 
-🔗 **Live Demo**
-https://qurbani-hat-my-assignment.vercel.app
+🔗 Live Demo: https://qurbani-hat-my-assignment.vercel.app
 
-🔗 **Repository**
-https://github.com/kazij317-code/qurbani-hat-my-assignment
+🔗 Repository: https://github.com/kazij317-code/qurbani-hat-my-assignment
 
 ---
 
-## 📊 GitHub Analytics
+# 🌐 GitHub • Portfolio • LinkedIn
+
+<p align="center">
+
+<a href="https://github.com/kazij317-code">
+<img src="https://img.shields.io/badge/GitHub-kazij317--code-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://kazi-jamshed-alam-portfolio-website.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://www.linkedin.com/in/kazi-jamshed-alam">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+# 🌱 Learning Goals
+
+* Advanced Next.js
+* TypeScript
+* Scalable Application Architecture
+* Performance Optimization
+* Security Best Practices
+* AI-Enhanced Development Workflows
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -118,7 +149,7 @@ https://github.com/kazij317-code/qurbani-hat-my-assignment
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -128,76 +159,18 @@ https://github.com/kazij317-code/qurbani-hat-my-assignment
 
 ---
 
-## 📈 Contribution Graph
+# 📬 Contact
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kazij317-code\&theme=tokyo-night)](https://github.com/kazij317-code)
+📧 Email: **[kazij317@gmail.com](mailto:kazij317@gmail.com)**
 
----
-
-## 🌱 Currently Learning
-
-* Advanced Next.js
-* TypeScript
-* Scalable Application Architecture
-* Performance Optimization
-* Security Best Practices
-* AI-Enhanced Development Workflows
+📍 Dhaka, Bangladesh
 
 ---
 
-## 💼 Professional Background
+# 🤝 Let's Connect
 
-Previously worked as an **Executive – IT** at the Regional Passport Office, Narayanganj.
+I'm actively seeking opportunities as a **Frontend Developer**, **MERN Stack Developer**, or **Full Stack Developer**.
 
-This experience strengthened my:
+If you're building modern web applications or looking for a developer passionate about React.js, Next.js, and user-focused development, I'd love to connect.
 
-* Problem Solving
-* Technical Troubleshooting
-* System Administration
-* Infrastructure Support
-* Communication
-* Team Collaboration
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:kazij317@gmail.com">
-<img src="https://img.shields.io/badge/Email-kazij317%40gmail.com-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/kazi-jamshed-alam">
-<img src="https://img.shields.io/badge/LinkedIn-Kazi_Jamshed_Alam-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://kazi-jamshed-alam-portfolio-website.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="https://github.com/kazij317-code">
-<img src="https://img.shields.io/badge/GitHub-kazij317--code-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 🤝 Open to Frontend, MERN Stack & Full Stack Opportunities
-
-Building modern web experiences with React.js, Next.js, and the MERN Stack.
-
-⭐ Feel free to explore my repositories, connect on LinkedIn, or reach out for collaboration.
-
-</div>
-
-<!--
-Snake Animation (Enable after GitHub Action setup)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kazij317-code/kazij317-code/output/github-contribution-grid-snake.svg" />
-</p>
--->
+⭐ Feel free to explore my repositories and reach out for collaboration.
