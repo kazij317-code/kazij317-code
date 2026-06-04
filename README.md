@@ -4,7 +4,7 @@
 
 ### Frontend Developer | MERN Stack Developer
 
-Building responsive, modern, and user-focused web applications using React.js, Next.js, and the MERN Stack.
+focused on building responsive, user-friendly web applications with React.js, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB.
 
 <img src="https://komarev.com/ghpvc/?username=kazij317-code&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
@@ -12,11 +12,13 @@ Building responsive, modern, and user-focused web applications using React.js, N
 
 ---
 
-# 👨‍💻 Short Intro
+# 👨‍💻 About Me
 
 Frontend Developer with hands-on experience building responsive web applications using React.js, Next.js, and the MERN stack.
 
 I specialize in developing modern user interfaces, integrating REST APIs, implementing authentication systems, and creating scalable web applications that deliver great user experiences.
+
+I am currently improving TypeScript, Next.js, backend architecture, testing, and AI-assisted development workflows.
 
 My background in IT operations and technical support has strengthened my problem-solving, troubleshooting, and analytical skills.
 
