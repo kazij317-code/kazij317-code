@@ -87,6 +87,10 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 
 🔗 Server Repository: https://github.com/kazij317-code/IdeaVault-server
 
+## 📸 Screenshot
+
+![Idea Vault Screenshot](./public/p1.png)
+
 ---
 
 ## 🐄 Qurbani Hat
