@@ -74,6 +74,13 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 
 **Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Better Auth, JWT, Node.js, Express.js, MongoDB
 
+## 📸 Screenshot
+
+<img width="1536" height="1024" alt="p1" src="https://github.com/user-attachments/assets/e66cc5aa-02f8-452b-86ca-03b19b089326" />
+
+
+
+
 ### Key Features
 
 * Secure authentication and authorization
@@ -94,6 +101,12 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 **Online Livestock Marketplace**
 
 **Tech Stack:** Next.js, React.js, Tailwind CSS, DaisyUI, Better Auth
+
+## 📸 Screenshot
+
+<img width="1269" height="1033" alt="p1" src="https://github.com/user-attachments/assets/3cbe52f5-54b5-46d0-915d-cd1fe6b4a6db" />
+
+
 
 ### Key Features
 
