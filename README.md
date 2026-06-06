@@ -128,15 +128,18 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 
 <p align="center">
 
-<a href="https://github.com/kazij317-code">
+<a href="https://github.com/kazij317-code" target="_blank"
+                rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-kazij317--code-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://kazi-jamshed-alam-portfolio-website.vercel.app">
+<a href="https://kazi-jamshed-alam-portfolio-website.vercel.app" target="_blank"
+                rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="https://www.linkedin.com/in/kazi-jamshed-alam">
+<a href="https://www.linkedin.com/in/kazi-jamshed-alam" target="_blank"
+                rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -180,6 +183,7 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 # 📬 Contact
 
 📧 Email: **[kazij317@gmail.com](mailto:kazij317@gmail.com)**
+📧 Email: **[kazij317@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kazij317@gmail.com)**
 
 📍 Dhaka, Bangladesh
 
