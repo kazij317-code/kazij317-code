@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="ChatGPT Image Jun 6, 2026, 01_44_27 AM" src="https://github.com/user-attachments/assets/a30edd64-b28f-4754-a5c3-f7e878674707" />
+
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kazi+Jamshed+Alam;Frontend+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+Developer;Building+Modern+Web+Applications;Open+to+Remote+Opportunities" />
