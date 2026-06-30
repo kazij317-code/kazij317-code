@@ -110,11 +110,6 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 
 <img width="1536" height="1024" alt="p1" src="https://github.com/user-attachments/assets/e66cc5aa-02f8-452b-86ca-03b19b089326" />
 
-
-<img width="527" height="397" alt="recipehub-home" src="https://github.com/user-attachments/assets/e810092e-8e21-4d85-b767-88e6664ab2fe" />
-<img width="527" height="397" alt="recipehub-home" src="https://github.com/user-attachments/assets/5eafbbcd-e196-4c74-a7f8-1314f17f64cb" />
-
-
 ### Key Features
 
 * Secure authentication and authorization
@@ -139,8 +134,6 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 ## 📸 Screenshot
 
 <img width="1269" height="1033" alt="p1" src="https://github.com/user-attachments/assets/3cbe52f5-54b5-46d0-915d-cd1fe6b4a6db" />
-
-
 
 ### Key Features
 
