@@ -71,6 +71,35 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 
 # 🌟 Best Projects
 
+## 🍽️ RecipeHub
+
+**Full Stack Recipe Sharing Platform**
+
+**Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Better Auth, JWT, Node.js, Express.js, MongoDB
+
+## 📸 Screenshot
+
+<img width="527" height="397" alt="recipehub-home" src="https://github.com/user-attachments/assets/2c83a668-0a7f-46e1-9f71-61e26fbd1aba" />
+
+### Key Features
+
+* 🔐 Secure authentication using Better Auth and JWT
+* 👨‍🍳 Create, edit, and delete your own recipes
+* 🔍 Search and filter recipes by category and cuisine
+* ❤️ Like, ⭐ Rate, and 🔖 Bookmark favorite recipes
+* 📊 Personalized dashboard to manage recipes and bookmarks
+* 📱 Fully responsive design for mobile, tablet, and desktop
+* ⚡ Fast performance with Next.js App Router
+
+🔗 **Live Demo:** https://recipehub-client-livid.vercel.app
+
+🔗 **Client Repository:** https://github.com/kazij317-code/recipehub-client
+
+🔗 **Server Repository:** https://github.com/kazij317-code/recipehub-server
+
+
+---
+
 ## 💡 Idea Vault
 
 **Full Stack Idea Management Platform**
@@ -82,6 +111,8 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 <img width="1536" height="1024" alt="p1" src="https://github.com/user-attachments/assets/e66cc5aa-02f8-452b-86ca-03b19b089326" />
 
 
+<img width="527" height="397" alt="recipehub-home" src="https://github.com/user-attachments/assets/e810092e-8e21-4d85-b767-88e6664ab2fe" />
+<img width="527" height="397" alt="recipehub-home" src="https://github.com/user-attachments/assets/5eafbbcd-e196-4c74-a7f8-1314f17f64cb" />
 
 
 ### Key Features
