@@ -39,41 +39,50 @@ My background in IT operations and technical support has strengthened my problem
 
 # 💻 TECHNOLOGY STACK
 
-### 🔗 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 </p>
 
-### 🔗 Frontend Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+### 🎨 UI & Styling
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=framer" height="48"/>
+<img src="https://cdn.simpleicons.org/heroui/000000" height="48"/>
+<img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="48"/>
 </p>
 
-### 🔗 CSS Frameworks & UI Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://img.icons8.com/color/48/daisyui.png" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/framer.png" width="48"/>
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="48"/>
 </p>
 
-### 🔗 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <img src="https://jwt.io/img/pic_logo.svg" width="48"/>
+### 🛠️ Tools & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" />
+<br><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48"/>
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" height="48"/>
 </p>
 
-### 🔗 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
-</p>
-
-### 🔗 AI Tools
-<p>
-  <img src="https://img.icons8.com/color/48/chatgpt.png" width="48"/>
-  <img src="https://img.icons8.com/color/48/google-gemini.png" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" width="48"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="48"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
