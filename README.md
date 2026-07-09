@@ -198,43 +198,44 @@ My background in IT operations and technical support has strengthened my problem
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazij317-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/kazij317-code?label=Followers&logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/kazij317-code?affiliations=OWNER&style=for-the-badge&logo=github" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=kazij317-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kazij317-code&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Followers -->
+<a href="https://github.com/kazij317-code?tab=followers">
+<img src="https://img.shields.io/github/followers/kazij317-code?label=Followers&style=for-the-badge&color=blue" />
+</a>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazij317-code&theme=tokyo-night&hide_border=true" />
-</p>
+<!-- Stars -->
+<a href="https://github.com/kazij317-code?tab=repositories">
+<img src="https://img.shields.io/github/stars/kazij317-code?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</a>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kazij317-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazij317-code&theme=tokyonight" />
-</p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazij317-code&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazij317-code&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazij317-code&theme=tokyonight&utcOffset=6" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazij317-code&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazij317-code&theme=tokyonight&utcOffset=6" />
-</p>
+<br><br>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=kazij317-code&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazij317-code&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=kazij317-code&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 # 📬 Contact
 
