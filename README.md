@@ -200,25 +200,24 @@ My background in IT operations and technical support has strengthened my problem
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kazij317-code&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=kazij317-code&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     alt="Top Languages"
   />
 </p>
-
 ---
 
 # 📬 Contact
