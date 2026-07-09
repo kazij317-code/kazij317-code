@@ -205,6 +205,8 @@ ChatGPT • Gemini • GitHub Copilot • Cursor
 
 📧 Email: **[kazij317@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kazij317@gmail.com)**
 
+📱 Mobile: +880 1712-736526
+
 📍 Dhaka, Bangladesh
 
 ---
