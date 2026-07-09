@@ -37,36 +37,43 @@ My background in IT operations and technical support has strengthened my problem
 
 ---
 
-# 💻 Tech Stack
+# 💻 TECHNOLOGY STACK
 
-### Frontend
+### 🔗 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+### 🔗 Frontend Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
-### UI & Styling
+### 🔗 CSS Frameworks & UI Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://img.icons8.com/color/48/daisyui.png" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/framer.png" width="48"/>
+</p>
 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat-square)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square)
+### 🔗 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://jwt.io/img/pic_logo.svg" width="48"/>
+</p>
 
-### Backend & Database
+### 🔗 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
-
-### Tools & AI
-
-Git • GitHub • VS Code • Vercel • Netlify • Figma
-
-ChatGPT • Gemini • GitHub Copilot • Cursor
-
+### 🔗 AI Tools
+<p>
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/google-gemini.png" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" width="48"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="48"/>
+</p>
 
 ---
 
