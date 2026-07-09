@@ -201,10 +201,7 @@ My background in IT operations and technical support has strengthened my problem
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -215,10 +212,7 @@ My background in IT operations and technical support has strengthened my problem
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
