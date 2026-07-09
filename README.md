@@ -196,27 +196,24 @@ My background in IT operations and technical support has strengthened my problem
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kazij317-code&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazij317-code&theme=tokyo-night&hide_border=true"/>
+</p>
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazij317-code&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kazij317-code&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 # 📬 Contact
 
