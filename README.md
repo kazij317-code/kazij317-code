@@ -125,7 +125,9 @@ My background in IT operations and technical support has strengthened my problem
 
 ## 📸 Screenshot
 
-<img width="1536" height="1024" alt="p1" src="https://github.com/user-attachments/assets/e66cc5aa-02f8-452b-86ca-03b19b089326" />
+
+<img width="402" height="252" alt="Screenshot_4" src="https://github.com/user-attachments/assets/61fa6433-1be3-41f2-bffc-26a88aa8d6a4" />
+
 
 ### Key Features
 
@@ -199,9 +201,10 @@ My background in IT operations and technical support has strengthened my problem
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kazij317-code&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
@@ -212,9 +215,10 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?usernam
 </p>
 
 <p align="center">
-  <img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazij317-code&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
