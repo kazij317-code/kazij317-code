@@ -39,70 +39,31 @@ My background in IT operations and technical support has strengthened my problem
 
 # 💻 Tech Stack
 
-### 🔗 Languages
+# 💻 TECHNOLOGY STACK
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### 🔗 Frontend Frameworks & Libraries
+### JavaScript Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+### CSS Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=tailwind" />
 
-### 🔗 UI & Styling
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=framer" height="48" />
-</p>
+### Deployment Platform
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
-**Other UI Libraries**
-- HeroUI
-- DaisyUI
+### Design & Graphics
+<img src="https://skillicons.dev/icons?i=figma" />
 
-### 🔗 Backend & Database
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-**Authentication**
-- JWT
-
-### 🔗 Deployment Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
-
-### 🔗 Design & Graphics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### 🔗 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### 🔗 AI Tools
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursorai" height="48" />
-</p>
-
-**Also Experienced With**
-- GitHub Copilot
-- HeroUI
-- DaisyUI
-- JWT
+### AI Tools
+ChatGPT • Gemini • GitHub Copilot • Cursor
 ---
 
 # 🌟 Best Projects
