@@ -39,51 +39,50 @@ My background in IT operations and technical support has strengthened my problem
 
 # 💻 TECHNOLOGY STACK
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### 🔗 Frontend
 
-### 🌐 Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 </p>
 
-### 🎨 UI & Styling
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=framer" height="48"/>
-<img src="https://cdn.simpleicons.org/heroui/000000" height="48"/>
-<img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="48"/>
+### 🔗 UI & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=framer" height="48"/>
+  <img src="https://cdn.simpleicons.org/heroui/000000" height="48"/>
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="48"/>
 </p>
 
-</td>
+---
 
-<td valign="top" width="50%">
+### 🔗 Backend & Database
 
-### ⚙️ Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="48"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="48"/>
 </p>
 
-### 🛠️ Tools & AI
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" />
-<br><br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48"/>
-<img src="https://cdn.simpleicons.org/githubcopilot/000000" height="48"/>
+### 🔗 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma" />
 </p>
 
-</td>
-</tr>
-</table>
+---
 
+### 🤖 AI Tools
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="48"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" height="48"/>
+</p>
 ---
 
 # 🌟 Best Projects
