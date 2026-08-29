@@ -121,7 +121,7 @@ My background in IT operations and technical support has strengthened my problem
 
 **Full Stack AI-Powered E-commerce Platform**
 
-**Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Node.js, Express.js, MongoDB, Gemini AI, JWT, Vercel
+**Tech Stack:** Next.js, React.js, Typescript, Tailwind CSS, HeroUI, Node.js, Express.js, MongoDB, Gemini AI, JWT, Vercel
 
 ## 📸 Screenshot
 
@@ -151,7 +151,7 @@ My background in IT operations and technical support has strengthened my problem
 
 **Full Stack Luxury Vacation Rental Platform**
 
-**Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Node.js, Express.js, MongoDB, JWT, Vercel
+**Tech Stack:** Next.js, React.js, Typescript, Tailwind CSS, HeroUI, Node.js, Express.js, MongoDB, JWT, Vercel
 
 ## 📸 Screenshot
 
