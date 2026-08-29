@@ -117,53 +117,64 @@ My background in IT operations and technical support has strengthened my problem
 
 ---
 
-## 💡 Idea Vault
+## 🛒 ZenithMart
 
-**Full Stack Idea Management Platform**
+**Full Stack AI-Powered E-commerce Platform**
 
-**Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Better Auth, JWT, Node.js, Express.js, MongoDB
+**Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Node.js, Express.js, MongoDB, Gemini AI, JWT, Vercel
 
 ## 📸 Screenshot
 
-
-<img width="402" height="252" alt="Screenshot_4" src="https://github.com/user-attachments/assets/61fa6433-1be3-41f2-bffc-26a88aa8d6a4" />
-
+<img width="605" height="392" alt="zenithmart" src="https://github.com/user-attachments/assets/4f058ef4-cc73-4251-ab6c-f62cd77c1248" />
 
 ### Key Features
 
-* Secure authentication and authorization
-* CRUD operations with category filtering
-* Protected routes and user-specific data access
-* Responsive and modern UI
+* AI-powered shopping assistant with Gemini integration
+* Product browsing with category-based filtering
+* Secure authentication and user-specific dashboard
+* Product search, cart, favorites, and checkout functionality
+* Admin dashboard for product and order management
+* Responsive and modern e-commerce UI
+* Context-aware AI recommendations based on products and user preferences
+* Cash on Delivery and online payment support
 
-🔗 Live Demo: https://idea-vault-client-pi.vercel.app
+🔗 Live Demo: https://zenithmart-client.vercel.app
 
-🔗 Client Repository: https://github.com/kazij317-code/IdeaVault-client
+🔗 Client Repository: https://github.com/kazij317-code/zenithmart-client
 
-🔗 Server Repository: https://github.com/kazij317-code/IdeaVault-server
+🔗 Server Repository: https://github.com/kazij317-code/zenithmart-server
+
 
 ---
 
-## 🐄 Qurbani Hat
+## 🏨 LuxeStay
 
-**Online Livestock Marketplace**
+**Full Stack Luxury Vacation Rental Platform**
 
-**Tech Stack:** Next.js, React.js, Tailwind CSS, DaisyUI, Better Auth
+**Tech Stack:** Next.js, React.js, Tailwind CSS, HeroUI, Node.js, Express.js, MongoDB, JWT, Vercel
 
 ## 📸 Screenshot
 
-<img width="1269" height="1033" alt="p1" src="https://github.com/user-attachments/assets/3cbe52f5-54b5-46d0-915d-cd1fe6b4a6db" />
+<img width="400" height="249" alt="luxestay-home png" src="https://github.com/user-attachments/assets/20e5de5d-bed9-46c1-8f34-8167889a1bfe" />
 
 ### Key Features
 
-* Authentication and protected routes
-* Role-based access control
-* Search and filtering functionality
-* Mobile responsive design
+* Luxury vacation rental and property discovery
+* Property browsing with category-based filtering
+* Detailed property listings with curated stay information
+* Secure user authentication and protected routes
+* Booking and reservation management
+* Host dashboard for property and booking management
+* Property listing functionality for hosts
+* Responsive and modern luxury-focused UI
+* Search and destination-based property exploration
+* 24/7 concierge and premium travel experience features
 
-🔗 Live Demo: https://qurbani-hat-my-assignment.vercel.app
+🔗 Live Demo: https://luxestay-client-pi.vercel.app
 
-🔗 Repository: https://github.com/kazij317-code/qurbani-hat-my-assignment
+🔗 Client Repository: https://github.com/kazij317-code/luxestay-client
+
+🔗 Server Repository: https://github.com/kazij317-code/luxestay-server
 
 ---
 
